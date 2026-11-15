@@ -17,3 +17,31 @@ p {
     color: black;
     font-size: 18px;
 }
+/* Furniture Website Design */
+
+body {
+    background-color: #f5efe6;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #5c321c;
+    font-size: 30px;
+}
+
+h2 {
+    color: #8b5e34;
+}
+
+h3 {
+    color: #5c321c;
+}
+
+p {
+    color: #333333;
+    font-size: 17px;
+    line-height: 1.7;
+}
