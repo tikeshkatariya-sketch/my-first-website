@@ -167,3 +167,24 @@ p {
 .details-button:hover {
     background-color: #5c3b24;
 }
+.product-card .price {
+    color: #8b5e34;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 12px 0;
+}
+
+.product-card .details-button {
+    display: inline-block;
+    background-color: #8b5e34;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.product-card .details-button:hover {
+    background-color: #5c3b24;
+}
