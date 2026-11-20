@@ -195,3 +195,9 @@ header.site-header img.logo {
     display: block;
     margin: 0 auto;
 }
+.main-banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
