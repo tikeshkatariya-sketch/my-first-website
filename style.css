@@ -188,18 +188,10 @@ p {
 .product-card .details-button:hover {
     background-color: #5c3b24;
 }
-/* Website Logo */
-.site-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 12px 15px;
-}
-
-.site-header .logo {
-    width: 180px;
-    max-width: 45%;
-    height: auto;
+header.site-header img.logo {
+    width: 180px !important;
+    max-width: 45% !important;
+    height: auto !important;
     display: block;
-    object-fit: contain;
+    margin: 0 auto;
 }
